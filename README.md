@@ -1,6 +1,7 @@
 #TinyMCE Annotate
 
-Create annotations in your content with this TinyMCE plugin.
+Create annotations in your content with this TinyMCE 4 plugin.
+If any issues occure, use compat3x plugin.
 
 ## Setup
 Code example:
